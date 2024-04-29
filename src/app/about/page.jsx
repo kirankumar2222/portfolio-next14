@@ -2,7 +2,7 @@
 
 import React, { useRef } from "react";
 import { motion, useInView, useScroll } from "framer-motion";
-import skSet from "./Skill";
+
 import Brain from "@/components/brain";
 const Aboutpage = () => {
   const containerRef = useRef();
