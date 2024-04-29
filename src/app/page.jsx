@@ -23,12 +23,12 @@ export default function Home() {
         {/* text container */}
         <div className="h-1/2 lg:h-full lg:w-1/2 flex flex-col gap-8 items-center justify-center">
           <h1 className="text-4xl md:text-6xl font-bold">
-            Kirankumar S M.Tech Software Engineering
+            Kirankumar S M Tech Software Engineering
           </h1>
           <p className="md:text-xl">
-            Hello! I'm Kirankumar S, a software developer with a passion for
-            creating innovative and efficient software solutions. I specialize
-            in full-stack development and AI.
+            Hello! I&#39;m Kirankumar S, a software developer with a passion for
+            creating innovative and efficient software solutions I specialize in
+            full-stack development and AI.
           </p>
           <div className="flex gap-4 w-full">
             <button className="p-4 rounded-lg ring-1 ring-black bg-black text-white">
