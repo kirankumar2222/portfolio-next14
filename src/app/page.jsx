@@ -18,7 +18,7 @@ export default function Home() {
             alt="kiran"
             fill="true"
             className="object-contain xl:pb-8"
-          ></Image>
+          />
         </div>
         {/* text container */}
         <div className="h-1/2 lg:h-full lg:w-1/2 flex flex-col gap-8 items-center justify-center">
