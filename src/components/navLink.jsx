@@ -10,7 +10,7 @@ const NavLink = ({ link }) => {
     <Link
       className={`rounded p-1 ${
         pathName === link.url && "bg-black text-white"
-      } `}
+      } cursor-pointer `}
       href={link.url}
     >
       {link.title}
