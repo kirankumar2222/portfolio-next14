@@ -129,7 +129,7 @@ const Navbar = () => {
             {links.map((link) => (
               <motion.div
                 variants={listItemVarients}
-                className=""
+                className="cursor-pointer"
                 key={link.title}
               >
                 <Link href={link.url}>{link.title}</Link>
